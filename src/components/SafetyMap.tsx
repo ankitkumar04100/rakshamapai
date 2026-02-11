@@ -1,4 +1,5 @@
-import { MapContainer, TileLayer, Circle, Polyline, Marker, useMap } from "react-leaflet";
+// react-leaflet v4 compatible with React 18
+import { MapContainer, TileLayer, Circle, Polyline, useMap } from "react-leaflet";
 import { useEffect } from "react";
 import L from "leaflet";
 import "leaflet/dist/leaflet.css";
