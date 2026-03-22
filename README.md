@@ -21,7 +21,7 @@ RakshaMap is an AI-driven public safety intelligence platform designed to proact
 - [Key Takeaway for Judges](#-key-takeaway-for-judges)
 - [Key Features](#-key-features)
 - [How AI Is Used](#-how-ai-is-used)
-- [System Architecture](#system-architecture)
+- [System Architecture](#-system-architecture)
 - [Technology Stack](#-technology-stack)
 - [Dataset Strategy](#-dataset-strategy)
 - [Model Design & Logic](#-model-design--logic)
