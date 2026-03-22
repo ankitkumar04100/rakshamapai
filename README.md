@@ -10,8 +10,8 @@ RakshaMap is an AI-driven public safety intelligence platform designed to proact
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Elevator Pitch](#elevator-pitch)
+- [Overview](#-overview)
+- [Elevator Pitch](#-elevator-pitch)
 - [Problem Analysis](#problem-analysis)
 - [Solution Overview: RakshaMap](#solution-overview-rakshamap)
 - [How RakshaMap Solves the Problem (Step-by-Step)](#how-rakshamap-solves-the-problem-step-by-step)
