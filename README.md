@@ -1,6 +1,6 @@
 # 🛡️ RakshaMap – AI-Powered Women-Centric Safety Mapper
 
-<img width="1536" height="1024" alt="Designer (21)" src="https://github.com/user-attachments/assets/12781c59-5da1-4250-ad58-bd5613bd5ccf" />
+<img width="2528" height="1696" alt="Gemini_Generated_Image_z3t8c3z3t8c3z3t8" src="https://github.com/user-attachments/assets/df8fd100-b1d9-43bb-bc62-e6478884c652" />
 
 RakshaMap is an AI-driven public safety intelligence platform designed to proactively enhance women’s safety in public spaces. Built as part of an AI for Good initiative, RakshaMap transforms safety from a reactive response into a predictive, data-driven system that helps individuals and communities make safer mobility decisions.
 
